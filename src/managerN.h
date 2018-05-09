@@ -32,4 +32,6 @@ public:
 	void showVias (Neighborhood *n);
 };
 
+//Implementar
+
 #endif /* MANAGERN_H_ */
